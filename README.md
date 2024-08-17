@@ -1,5 +1,5 @@
 # Desafio01 - Resolução
-Projeto de desenvolvimento do módulo base Desafio 01
+Projeto focado no desenvolvimento de uma Landing Page, contendo a estrutura inicial e funcionalidades principais
 
 Planilha:
 https://docs.google.com/spreadsheets/d/1IlUhfEMUi20X-KDZmOigNCBc9hvf4ZXtlhmzELFKxD4/edit

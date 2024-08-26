@@ -1,6 +1,3 @@
-Aqui está o README formatado conforme suas instruções, dentro da caixa de código:
-
-```markdown
 # Desenvolvimento de uma Landing Page
 
 ## Descrição
